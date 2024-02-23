@@ -15,8 +15,6 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <div className="nav-container">
-                <div className="nav-logo">Your Logo</div>
-
                 <div className={`nav-links ${isMobile ? 'mobile' : ''}`}>
                     <a href="#home">
                         <FontAwesomeIcon icon={faHome} />
