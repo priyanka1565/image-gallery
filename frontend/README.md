@@ -7,7 +7,7 @@
 Frontend 
 
 ## Deplolyed App
-Frontend: https://deployed-site.whatever
+Frontend: 
 
 
 ## Directory Structure
